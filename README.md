@@ -23,7 +23,7 @@
 - 프론트엔드 엔지니어
 - 백엔드 엔지니어
 - GIS 웹 엔지니어
-- 오픈 포지션 (적합한 채용 포지션을 찾지 못하셨나요? 포지션을 recruit@angelswing.io로 제안해주세요! ) 
+- 오픈 포지션 (적합한 채용 포지션을 찾지 못하셨나요? 포지션을 [`recruit@angelswing.io`](mailto:recruit@angelswing.io)로 제안해주세요! ) 
 
 ### 채용 프로세스
 
