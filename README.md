@@ -29,7 +29,7 @@
 
  1. 메일로 지원해주세요.
 
-- 포트폴리오와 이력서를 메일로 보내주세요: [`**recruit@angelswing.io**`](mailto:recruit@angelswing.io)
+- 포트폴리오와 이력서를 메일로 보내주세요: [`recruit@angelswing.io`](mailto:recruit@angelswing.io)
 - 포트폴리오 대신 github 계정을 알려주셔도 좋습니다.
 
  2. 테스트를 통해 기본적인 개발 역량을 봅니다.
