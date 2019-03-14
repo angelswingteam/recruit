@@ -8,7 +8,11 @@
 
 이 제품에는 클라우드 컴퓨팅, 사진측량학(Photogrammetry), 지리정보시스템(GIS), 머신러닝을 비롯한 기술들이 집약되어 있으며, 최신 웹 기술을 이용하여 고용량 데이터를 경량화하는 기술과 사용 편의성이 높은 UX/UI로 웹 상에서 간편하게 사용할 수 있도록 제공하고 있습니다.
 
-데모영상 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZKi7AoNwmOU
+" target="_blank"><img src="http://img.youtube.com/vi/ZKi7AoNwmOU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+>엔젤스윙 데모영상
 
 이와 더불어 엔젤스윙은 국내외의 재난과 환경 문제에 도전하고 있습니다. 가장 최근에는 2018년 10월에 있었던 팔루 지진 피해 지역에 드론 데이터를 제공하였고, 데이터는 플랫폼 상에서 재난 피해 규모를 정량화하고 재난 복구 과정을 모니터링하는데 활용되었습니다. 
 
